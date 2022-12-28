@@ -2,16 +2,16 @@
 ***lipu mute pi sin ala
 **lipu pi tenpo open
 *kipisi 1
-1: tenpo open la sewi JAWE li pali e kon sewi e ma.
-2: ma li pimeja pi insa ala. kon pi sewi JAWE li tawa lon sewi telo.
-3: sewi JAWE li toki e ni: "suno o lon." suno li lon. 
-4: lukin la, sewi JAWE li sona e ni: suno li pona. sewi JAWE li tu e suno e pimeja.
-5: tawa suno la, sewi JAWE pana e nimi pi tenpo suno. tawa pimeja la, ona pana e nimi pi tenpo pimeja. lon tenpo lawa la, lon tenpo pini la, ni li tenpo pi nanpa wan.
-6: sewi JAWE toki e ni: "supa o lon insa pi telo tu, ona wile awen e telo sewi tan telo anpa."
-7: supa li lon. tawa ni la, sewi JAWE li pana e nimi “kon”.
-8: tenpo pimeja sin li kama la tenpo ante la tenpo suno sin li kama. tawa tenpo ni la sewi JAWE li pana e nimi “tenpo suno pi nanpa tu''.
-9: sewi JAWE li toki e ni: “mi wile e ni: telo anpa ale li kama lon wan la ma kiwen li kama li kama lon sewi pi telo anpa.” ma kiwen li lon.
-10: sewi JAWE li pana e nimi “ma” tawa ma kiwen li pana e nimi “telo mute” tawa telo anpa. ma en telo mute li pona tawa sewi JAWE. 
+1: tenpo open la sewi JAWE li pali e kon sewi e ma. {tenpo open la,/ /sewi JAWE li/ /pali e ma e/ /kon sewi ona.}
+2: ma li pimeja pi insa ala. kon pi sewi JAWE li tawa lon sewi telo. {ma li pimeja/ /pi insa ala./ /kon pi sewi ni,/ /li tawa lon ni:/ /sewi telo, ni.}
+3: sewi JAWE li toki e ni: "suno o lon." suno li lon. {sewi ELOWIN,/ /li toki e ni:/ /"suno o lon, a!"/ /suno li lon, a!}
+4: lukin la, sewi JAWE li sona e ni: suno li pona. sewi JAWE li tu e suno e pimeja. {ona lukin la,/ /sewi ELOWIN/ /li sona e ni:/ /suno li pona/ /sewi JAWE li/ /tu e suno e/ /pimeja, li mun.}
+5: tawa suno la, sewi JAWE pana e nimi pi tenpo suno. tawa pimeja la, ona pana e nimi pi tenpo pimeja. lon tenpo lawa la, lon tenpo pini la, ni li tenpo pi nanpa wan. {tawa suno la,/ /sewi JAWE li/ /pana e nimi/ /pi tenpo suno./ /tawa pimeja/ /la, ona pana/ /e nimi, a, pi/ / tenpo suno lon/ /tenpo lawa la/ /lon tenpo pini/ /la, ni li tenpo/ /pi nanpa wan, a!}
+6: sewi JAWE toki e ni: "supa o lon insa pi telo tu, ona wile awen e telo sewi tan telo anpa." {sewi ELOWIN/ /li toki e ni:/ /"supa ni o lon/ /insa pi telo/ /tu, ona wile/ /awen e telo/ /sewi tan telo/ /anpa" e ijo}
+7: supa li lon. tawa ni la, sewi JAWE li pana e nimi “kon”. {supa ni li lon/ /tawa ni la, a,/ /sewi JAWE li/ /pana e nimi./ /nimi ni li "kon"}
+8: tenpo pimeja sin li kama la tenpo ante la tenpo suno sin li kama. tawa tenpo ni la sewi JAWE li pana e nimi “tenpo suno pi nanpa tu''. {tenpo pimeja/ /sin li kama la/ /tenpo ante la/ /tenpo suno sin/ /li kama. tawa/ /tenpo ni la, a,/ /sewi Jawe li/ /pana e nimi/ /"tenpo suno pi/ /nanpa tu" mun, a!}
+9: sewi JAWE li toki e ni: “mi wile e ni: telo anpa ale li kama lon wan la ma kiwen li kama li kama lon sewi pi telo anpa.” ma kiwen li lon. {sewi Jawe li/ /toki e ni: "mi/ /wile e ni, a:/ /telo anpa, a,/ /ale li kama/ /lon wan la ma jan/ /kiwen li kama/ /lon sewi, a, pi/ /telo anpa" ma/ /kiwen li lon, a!}
+10: sewi JAWE li pana e nimi “ma” tawa ma kiwen li pana e nimi “telo mute” tawa telo anpa. ma en telo mute li pona tawa sewi JAWE. {sewi JAWE li/ /pana e nimi/ /"ma" tawa ma, a,/ /kiwen li pana/ /e nimi, ni:/ /"telo mute" a/ /tawa telo}
 11: sewi JAWE li toki e ni: “ma o pana e kasi mute. kasi mute o pana e kasi lili. kasi mute li pana e kili. kasi ale o jo e kili ante.”
 12: kasi mute li kama lon ma. kasi ale li kama pana e kasi lili ante.
 13: tenpo pimeja sin li kama la tenpo ante la tenpo suno sin li kama. tawa tenpo ni la sewi JAWE li pana e nimi “tenpo suno pi nanpa tu wan”.
@@ -282,8 +282,8 @@
 **lipu pi jan IMIJAJU
 **lipu pi pi toki pi pilin ike
 *kipisi 1
-1: ike a! tenpo wan la, jan mute mute li lon ma tomo JELUSALEN. tenpo ni la, jan ala li lon. tenpo wan la, ma tomo Jelusalen li suli tawa ma ale. tenpo ni la, ona li kama sama meli pilin ike tan moli pi mije ona. tenpo wan la, ona li sama meli lawa; ma ante ale li sewi e ona. tenpo ni la, mi mute pi ma tomo Jelusalen li kama sama jan anpa pali.
-2: tenpo pimeja la, mi mute li pana ike e telo tan oko. telo oko li lon poka sinpin. jan ala pi jan olin ale li pana e pona tawa mi. tenpo pini la, jan lawa mute pi ma ante li pona tawa mi. tenpo ni la, ona ale li kama jan ike tawa jan ale pi ma tomo JELUSALEN.
+1: ike a! tenpo wan la, jan mute mute li lon ma tomo JELUSALEN. tenpo ni la, jan ala li lon. tenpo wan la, ma tomo Jelusalen li suli tawa ma ale. tenpo ni la, ona li kama sama meli pilin ike tan moli pi mije ona. tenpo wan la, ona li sama meli lawa; ma ante ale li sewi e ona. tenpo ni la, mi mute pi ma tomo Jelusalen li kama sama jan anpa pali. {ike a! tenpo/ /wan la, a, jan/ /mute mute li/ /lon ma tomo ni/ /JELUSALEN, a!/ /tenpo ni la, jan/ /ala li lon, n!/ /tenpo wan la, ma/ /tomo JELUSA//LEN li suli, a/ /tawa ma ale,/ /tenpo ni la, mi/ /mute, a, pi ma/ /tomo ni li, a,/ /kama sama jan/ /anpa pali! a!}
+2: tenpo pimeja la, mi mute li pana ike e telo tan oko. telo oko li lon poka sinpin. jan ala pi jan olin ale li pana e pona tawa mi. tenpo pini la, jan lawa mute pi ma ante li pona tawa mi. tenpo ni la, ona ale li kama jan ike tawa jan ale pi ma tomo JELUSALEN. {tenpo pimeja/ /la, mi mute li/ /pana ike e/ /telo tan oko/ /telo oko li/ /lon poka sinpin./ /jan ala pi jan/ /olin ale li/ /pana e pona/ /tawa mi. tenpo,/ /tenpo pini la,/ /jan lawa mute/ /pi ma ante li/ /pona tawa mi./ /a, tenpo ni la,/ /ona ale li/ /kama jan ike/ /tawa jan ale/ /pi ma tomo ni.}
 3: jan li tawa weka e kulupu JUTA. ona li jan anpa pali li pilin ike mute. ona li lon ma ante li ken ala jo e awen pona. jan ike ona li lanpan e ona. ona li ken ala weka.
 4: jan ala li lon nasin pi nena SIJON tan ni: lon ma ni la, jan ala li kama li wan e moku suli sewi. jan ala li tawa lupa suli ona pi kama insa. jan sewi ona li mu. meli lili pi ma tomo JELUSALEN li pana e telo tan oko tan ni: ona li pilin ike mute.
 5: jan ike tawa mi mute li anpa e ma tomo li wawa. sewi JAWE li pana ike tawa kulupu pi ma tomo JELUSALEN tan pali ike ale ona.  jan li lanpan e jan lili pi ma tomo JELUSALEN li tawa e ona lon ma ante. 
